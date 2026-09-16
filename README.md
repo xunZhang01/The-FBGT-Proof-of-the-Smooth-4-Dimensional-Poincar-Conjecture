@@ -1,0 +1,2 @@
+# The-FBGT-Proof-of-the-Smooth-4-Dimensional-Poincar-Conjecture
+This paper proves the smooth homotopy version of the smooth 4-dimensional Poincaré conjecture within the framework of the Function Growth Branch Axiom System (FBGT):  If the joint constraint U(M)U(M) of a 4-dimensional boundary-compact oriented simply-connected smooth manifold MM is isomorphic to the joint constraint U(S4)U(S4) of S4S4,
